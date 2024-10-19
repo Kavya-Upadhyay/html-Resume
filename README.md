@@ -35,5 +35,3 @@ This project consists of a simple multi-page resume website.
 © Bruce Wayne. All Rights Reserved.
 
 ---
-
-This version provides a complete description of your project, including the two additional pages for hobbies and contact details.
